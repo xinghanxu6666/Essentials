@@ -1571,3 +1571,6 @@ permissions:
       essentials.tempban.exempt: true
       essentials.exempt.protect: true
       essentials.editsign.waxed.exempt: true
+
+
+folia-supported: true
